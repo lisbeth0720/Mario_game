@@ -1,0 +1,15 @@
+.gamediv{
+   width:500px;
+   height:400px;
+   position:absolute;
+   background-color:pink;
+}
+/*控制游戏表格样式*/
+.center{
+	height:100px;
+	width:200px;
+	border:1 px solid red;
+	
+}
+
+	
